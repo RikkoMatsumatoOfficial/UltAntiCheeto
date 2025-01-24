@@ -53,7 +53,7 @@ If you're looking for full database integration and bonus protective features fo
 
 ## Licensing  
 
-The GNU Affero general public license is used in this project. Please be aware of what you can and cannot do with this license: for example, you do not have permission to rip this project into your own commercial project or use this project in your own code base without it being open source. You do have permission to use this project if your project is also open source. Using this project for a "private game server" or any other stolen code/binaries automatically violates the license.
+My Fork is Licensing by Apache(Apache License 2.0)... You Can Modify and use in you're private or public project!!!
 
 ## Class Flow Diagram
 
